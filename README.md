@@ -1,2 +1,4 @@
 # hello-world
-just another repository 
+Just another repository 
+
+I enjoy the great outdoors and chicken fried rice. 
